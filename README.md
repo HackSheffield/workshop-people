@@ -1,5 +1,9 @@
 # workshop-people
 
 - Matt Burman
--Alex Apetri
-
+- Alex Apetri
+- Matthew Swinbank
+- Marc Bonne
+- Ruxi
+- Jie Xin
+- Bazif Khan
