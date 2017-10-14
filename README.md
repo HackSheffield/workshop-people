@@ -3,4 +3,6 @@
 - Matt Burman
 - Jack Denny
 - Ruxi
+- Marc Bonne
+- Bazif Khan
 
