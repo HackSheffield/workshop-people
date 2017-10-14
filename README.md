@@ -8,3 +8,4 @@
 - Ruxi
 - Jie Xin
 - Bazif Khan
+- Tim Freeman
