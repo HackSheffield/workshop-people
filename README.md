@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Alex Apetri
 - Matthew Swinbank
 - Marc Bonne
 - Ruxi
