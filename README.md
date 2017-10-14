@@ -4,4 +4,5 @@
 - Matthew Swinbank
 - Marc Bonne
 - Ruxi
+- Jie Xin
 - Bazif Khan
