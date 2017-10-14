@@ -1,8 +1,8 @@
 # workshop-people
 
 - Matt Burman
-
--Anton Permyakov 
+- Anton Permyakov 
+- Alex Apetri
 - Matthew Swinbank
 - Marc Bonne
 - Ruxi
