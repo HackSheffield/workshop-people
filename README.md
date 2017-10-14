@@ -1,4 +1,8 @@
 # workshop-people
 
 - Matt Burman
--Anton Permyakov / Don't forget to be awesome!
+
+-Anton Permyakov 
+- Marc Bonne
+- Ruxi
+- Bazif Khan
