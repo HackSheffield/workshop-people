@@ -2,3 +2,4 @@
 
 - Matt Burman
 - Ruxi
+- Jimmy
