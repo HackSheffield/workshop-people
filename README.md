@@ -2,4 +2,3 @@
 
 - Matt Burman
 - Ruxi
-- Bazif Khan
