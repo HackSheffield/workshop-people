@@ -9,3 +9,4 @@
 - Bazif Khan
 - Jimmy
  - Jon
+ - new name
