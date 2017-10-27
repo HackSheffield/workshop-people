@@ -8,3 +8,4 @@
 - Jie Xin
 - Bazif Khan
 - Hello 
+- new thing
