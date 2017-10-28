@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Barnabas Hermesz
 - Alex Apetri
 - number 1
 - Matthew Swinbank
