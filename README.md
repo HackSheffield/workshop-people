@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Cian
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
