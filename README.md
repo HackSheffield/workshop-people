@@ -1,8 +1,9 @@
 # workshop-people
 
 - Matt Burman
--Thomas O'Keeffe
+- Thomas O'Keeffe
 - Ruxi
+- Iqrah
 - Jakub Wielgorski
 - Andreas
 - Niall Kelly
