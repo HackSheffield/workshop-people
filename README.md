@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Jack Denny
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
