@@ -3,6 +3,7 @@
 - Matt Burman
 - Thomas O'Keeffe
 - Ruxi
+- Jimmy
 - kinjal
 - Iqrah
 - Jakub Wielgorski
