@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Jakub Wielgorski
 - Andreas
 - Niall Kelly
 - Maria
