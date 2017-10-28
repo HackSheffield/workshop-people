@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Saif Haq
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
