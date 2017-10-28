@@ -4,6 +4,7 @@
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
+- Anete
 - Jimmy
 - kinjal
 - Iqrah
