@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Iqrah Nadeem
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
