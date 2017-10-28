@@ -8,5 +8,9 @@
 - Ruxi
 - Jie Xin
 - Bazif Khan
+- Jimmy
+- Jon
+- new name
+- 4th
 - Hello 
 - new thing
