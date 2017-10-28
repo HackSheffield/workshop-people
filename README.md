@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Alexandra Bocirnea
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
