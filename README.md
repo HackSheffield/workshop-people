@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Maria
 - Iulian Lazarina
 - Barnabas Hermesz
 - Alex Apetri
