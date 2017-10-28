@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Iulian Lazarina
 - Barnabas Hermesz
 - Alex Apetri
 - number 1
