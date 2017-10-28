@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Abayomi Omotosho-I
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
