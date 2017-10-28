@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- PandelisZ
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
