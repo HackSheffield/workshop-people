@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Anuja Sharma
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
