@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Chris Hart
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
