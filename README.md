@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Anton Permyakov 
 - Andrei Voiculas
 - Thomas O'Keeffe
 - Ruxi
