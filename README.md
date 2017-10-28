@@ -1,6 +1,7 @@
 # workshop-people
 
 - Matt Burman
+- Andreas
 - Niall Kelly
 - Maria
 - Iulian Lazarina
