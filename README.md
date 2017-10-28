@@ -18,6 +18,7 @@
 - Matthew Swinbank
 - Marc Bonne
 - Ruxi
+- Safia
 - Jie Xin
 - Bazif Khan
 - Jimmy
