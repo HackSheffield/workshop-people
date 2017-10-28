@@ -21,6 +21,7 @@
 - Safia
 - Jie Xin
 - Bazif Khan
+- Tim Freeman
 - Jimmy
 - Jon
 - new name
